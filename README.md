@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/adogiparthi" target="blank"><img src="https://img.shields.io/twitter/follow/adogiparthi?logo=twitter&style=for-the-badge" alt="adogiparthi" /></a> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently mastering **DSA**
 
-- 💬 Ask me about **Python,JAVA,SQL**
+- 💬 Ask me about **JAVA,Python,SQL,HTML,CSS**
 
 - 📫 How to reach me **dnvavinash@gmail.com**
 
