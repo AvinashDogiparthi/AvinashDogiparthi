@@ -1,4 +1,3 @@
-[![MasterHead](https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&h=500&q=60)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Avinash</h1>
 <h3 align="center">SDE Intern</h3>
 <img align="right" alt="Coding" width="400" src = "https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif">
