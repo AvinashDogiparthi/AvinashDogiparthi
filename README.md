@@ -1,3 +1,4 @@
+[![MasterHead](https://sukhbinder.files.wordpress.com/2022/01/snow_banner_o.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Avinash</h1>
 <h3 align="center">SDE Intern</h3>
 <img align="right" alt="Coding" width="400" src = "https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif">
