@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashdogiparthi&label=Profile%20views&color=0e75b6&style=flat" alt="avinashdogiparthi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/adogiparthi" target="blank"><img src="https://img.shields.io/twitter/follow/adogiparthi?logo=twitter&style=for-the-badge" alt="adogiparthi" /></a> </p>
+<p align="left"> <a href="dnvavinash" target="blank"><img src="https://img.shields.io/twitter/follow/adogiparthi?logo=twitter&style=for-the-badge" alt="adogiparthi" /></a> </p>
 
 - 🌱 I’m currently mastering **DSA**
 
