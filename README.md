@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently mastering **LLD, HLD and DSA**
 
-- 💬 Ask me about **JAVA,Python,SQL,HTML,CSS,JS**
+- 💬 Ask me about **JAVA, Python, JavaScript**
 
 - 📫 How to reach me **dnvavinash@gmail.com**
 
