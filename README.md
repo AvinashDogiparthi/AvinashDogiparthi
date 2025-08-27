@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dnvavinash" target="blank"><img src="https://img.shields.io/twitter/follow/dnvavinash?logo=twitter&style=for-the-badge" alt="adogiparthi" /></a> </p>
 
-- 🌱 I’m currently mastering **LLD, HLD and DSA **
+- 🌱 I’m currently mastering **LLD, HLD and DSA**
 
 - 💬 Ask me about **JAVA, Python, JavaScript**
 
