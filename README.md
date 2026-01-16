@@ -1,31 +1,51 @@
-[![MasterHead](https://sukhbinder.files.wordpress.com/2022/01/snow_banner_o.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Avinash</h1> 
-<h3 align="center">SDE1 at Amadeus Software Labs</h3>
-<img align="right" alt="Coding" width="400" src = "https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif">
+# Hi 👋, I'm Avinash Dogiparthi
+### Software Developer at Amadeus | Java & Distributed Systems Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashdogiparthi&label=Profile%20views&color=0e75b6&style=flat" alt="avinashdogiparthi" /> </p>
-
-<p align="left"> <a href="https://twitter.com/dnvavinash" target="blank"><img src="https://img.shields.io/twitter/follow/dnvavinash?logo=twitter&style=for-the-badge" alt="adogiparthi" /></a> </p>
-
-- 🌱 I’m currently mastering **LLD, HLD and DSA**
-
-- 💬 Ask me about **JAVA, Python, JavaScript**
-
-- 📫 How to reach me **dnvavinash@gmail.com**
-
-<h3 align="left">Connect with me  :)</h3>
 <p align="left">
-<a href="https://twitter.com/dnvavinash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adogiparthi" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/avinash-dogiparthi-5a6323189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avinash-dogiparthi-5a6323189/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCJg3dzHY06qcssu-RT7TUyA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucjg3dzhy06qcssu-rt7tuya" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/dnvavinash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/dnvavinash/" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=avinashdogiparthi&label=Profile%20views&color=0e75b6&style=flat" alt="avinashdogiparthi" />
+  <a href="https://twitter.com/dnvavinash" target="blank"><img src="https://img.shields.io/twitter/follow/dnvavinash?logo=twitter&style=flat-square&color=blue" alt="adogiparthi" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashdogiparthi&layout=compact"/>
-</div>
+### 💫 About Me:
+I am a **Software Developer at Amadeus** with ~3 years of experience building scalable backend systems. I specialize in **Java and Spring Boot**, with a strong focus on high-performance distributed architectures.
 
+- 🚀 **Current Focus:** Deep diving into **Low-Level Design (LLD)**, **High-Level Design (HLD)**, and advanced **DSA** to build more robust systems.
+- 🛠 **Expertise:** Kafka integration, REST APIs, JPA optimization, and microservices architecture using Docker and gRPC.
+- ⚽ **Fun Fact:** When I'm not coding, you'll find me on the football field as a right winger or experimenting with new recipes in the kitchen.
 
+---
+
+### 🛠 Languages and Tools:
+<p align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="gRPC" />
+</p>
+
+---
+
+### 📊 My Github Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashdogiparthi&layout=compact&theme=vision-friendly-dark" alt="Top Langs" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=avinashdogiparthi&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" height="165px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashdogiparthi&theme=vision-friendly-dark" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/avinash-dogiparthi-5a6323189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/dnvavinash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://twitter.com/dnvavinash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="mailto:dnvavinash@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
+</p>
