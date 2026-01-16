@@ -1,10 +1,13 @@
-# Hi 👋, I'm Avinash Dogiparthi
-### Software Developer at Amadeus | Java & Distributed Systems Enthusiast
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=avinashdogiparthi&label=Profile%20views&color=0e75b6&style=flat" alt="avinashdogiparthi" />
-  <a href="https://twitter.com/dnvavinash" target="blank"><img src="https://img.shields.io/twitter/follow/dnvavinash?logo=twitter&style=flat-square&color=blue" alt="adogiparthi" /></a>
-</p>
+<div align="center">
+<img src="https://www.gifcen.com/wp-content/uploads/2022/12/messi-gif-11.gif" width="200" height="200" alt="Messi Magic">
+  <h1>Hi 👋, I'm Avinash Dogiparthi</h1>
+  <h3>Software Developer at Amadeus | Java & Distributed Systems Enthusiast</h3>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=avinashdogiparthi&label=Profile%20views&color=0e75b6&style=flat" alt="avinashdogiparthi" />
+    <a href="https://twitter.com/dnvavinash" target="blank"><img src="https://img.shields.io/twitter/follow/dnvavinash?logo=twitter&style=flat-square&color=blue" alt="adogiparthi" /></a>
+  </p>
+</div>
 
 ---
 
@@ -31,10 +34,6 @@ I am a **Software Developer at Amadeus** with ~3 years of experience building sc
 ---
 
 ### 📊 My Github Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashdogiparthi&layout=compact&theme=vision-friendly-dark" alt="Top Langs" height="165px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=avinashdogiparthi&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" height="165px" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashdogiparthi&theme=vision-friendly-dark" alt="GitHub Streak" />
