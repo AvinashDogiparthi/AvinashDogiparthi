@@ -33,14 +33,6 @@ I am a **Software Developer at Amadeus** with ~3 years of experience building sc
 
 ---
 
-### 📊 My Github Stats:
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashdogiparthi&theme=vision-friendly-dark" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🤝 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/avinash-dogiparthi-5a6323189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
