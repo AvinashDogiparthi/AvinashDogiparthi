@@ -20,7 +20,7 @@ I am a **Software Developer at Amadeus** with ~3 years of experience building sc
 
 ---
 
-### 🛠 Languages and Tools:
+### Languages and Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
@@ -33,7 +33,7 @@ I am a **Software Developer at Amadeus** with ~3 years of experience building sc
 
 ---
 
-### 🤝 Connect with me:
+### Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/avinash-dogiparthi-5a6323189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/dnvavinash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
