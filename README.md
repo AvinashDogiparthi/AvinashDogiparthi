@@ -12,7 +12,7 @@
 ---
 
 ### 💫 About Me:
-I am a **Software Developer at Amadeus** with ~4 years of experience building scalable backend systems. I specialize in **Java and Spring Boot**, with a strong focus on high-performance distributed architectures.
+I am a **Software Developer at Flipkart** with ~4 years of experience building scalable backend systems. I specialize in **Java and Spring Boot**, with a strong focus on high-performance distributed architectures.
 
 - 🚀 **Current Focus:** Deep diving into **Low-Level Design (LLD)**, **High-Level Design (HLD)**, and advanced **DSA** to build more robust systems.
 - 🛠 **Expertise:** Kafka integration, REST APIs, JPA optimization, and microservices architecture using Docker and gRPC.
