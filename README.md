@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://www.gifcen.com/wp-content/uploads/2022/12/messi-gif-11.gif" width="200" height="200" alt="Messi Magic">
   <h1>Hi 👋, I'm Avinash Dogiparthi</h1>
-  <h3>Software Developer at Amadeus | Java & Distributed Systems Enthusiast</h3>
+  <h3>Software Developer at Flipkart | Java & Distributed Systems Enthusiast</h3>
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=avinashdogiparthi&label=Profile%20views&color=0e75b6&style=flat" alt="avinashdogiparthi" />
@@ -12,7 +12,7 @@
 ---
 
 ### 💫 About Me:
-I am a **Software Developer at Amadeus** with ~3 years of experience building scalable backend systems. I specialize in **Java and Spring Boot**, with a strong focus on high-performance distributed architectures.
+I am a **Software Developer at Amadeus** with ~4 years of experience building scalable backend systems. I specialize in **Java and Spring Boot**, with a strong focus on high-performance distributed architectures.
 
 - 🚀 **Current Focus:** Deep diving into **Low-Level Design (LLD)**, **High-Level Design (HLD)**, and advanced **DSA** to build more robust systems.
 - 🛠 **Expertise:** Kafka integration, REST APIs, JPA optimization, and microservices architecture using Docker and gRPC.
